@@ -14,8 +14,7 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI1IDg6Njo0MSBQTSZoYXNoX3ZhbHVlPWFZSFI2L0FJbUIwNSt0ZzZnUDdGUVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lM2JhYzBiNy1iM2NhLTQ5OWYtYjhjOS02Y2ZhMTg4N2U3NWI=/
-
+https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI1IDg6Njo0MyBQTSZoYXNoX3ZhbHVlPS80NjJneWdSUVkvcktGOUlNTU1FZGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kMzUyYmNkMy03NWNjLTRhMDMtYTk1NC04MWIxNGQ3ODA2OTI=
 #EXTINF:-1 tvg-chno="5" group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rtpnoticias.png",RTP Notícias
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
@@ -3199,4 +3198,5 @@ https://uk2.streamingpulse.com/ssl/vcr1
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png",Venice Classic Radio - Live
 https://uk2.streamingpulse.com/ssl/vcr2
+
 
