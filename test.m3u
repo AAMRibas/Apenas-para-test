@@ -10,10 +10,10 @@
 http://premium-iptv.link:6969/live/ace/WFCQBW46kP/159.ts
 
 #EXTINF:-1 tvg-id="rtp2" tvg-name="RTP2" tvg-logo="https://www.rtp.pt/portal/img/logo-rtp2.png" group-title="RTP", RTP2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3951.ts
 
 #EXTINF:-1 tvg-id="rtp3" tvg-name="RTP3" tvg-logo="https://www.rtp.pt/portal/img/logo-rtp3.png" group-title="RTP;Notícias", RTP3
-https://streaming-live.rtp.pt/liverepeater/rtp3.smil/playlist.m3u8
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3960.ts
 
 #EXTINF:-1 tvg-id="rtpinternacional" tvg-name="RTP Internacional" tvg-logo="https://www.rtp.pt/portal/img/logo-rtpinternacional.png" group-title="RTP;Internacional", RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
@@ -44,4 +44,5 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/31e9bf8a28a9441fbfa91eddf1f5e680/in
 #---------------------------------------------
 #EXTINF:-1 tvg-id="m3upt" tvg-name="M3UPT - Full Portuguese Playlist" tvg-logo="https://m3upt.com/logo.png" group-title="Agregado", M3UPT - Full Portuguese public playlist
 https://m3upt.com/iptv
+
 
