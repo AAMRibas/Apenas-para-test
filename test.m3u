@@ -1,0 +1,46 @@
+#EXTM3U
+# Playlist: Canais Portugueses (pública/oficial)
+# Fonte: RTP Play + M3UPT (agregador público)
+# Nota: alguns links podem ser geo-restritos ou exigir DRM.
+
+#---------------------------------------------
+# RTP – Rádio e Televisão de Portugal
+#---------------------------------------------
+#EXTINF:-1 tvg-id="rtp1" tvg-name="RTP1" tvg-logo="https://www.rtp.pt/portal/img/logo-rtp1.png" group-title="RTP", RTP1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtp2" tvg-name="RTP2" tvg-logo="https://www.rtp.pt/portal/img/logo-rtp2.png" group-title="RTP", RTP2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtp3" tvg-name="RTP3" tvg-logo="https://www.rtp.pt/portal/img/logo-rtp3.png" group-title="RTP;Notícias", RTP3
+https://streaming-live.rtp.pt/liverepeater/rtp3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtpinternacional" tvg-name="RTP Internacional" tvg-logo="https://www.rtp.pt/portal/img/logo-rtpinternacional.png" group-title="RTP;Internacional", RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtpafrica" tvg-name="RTP África" tvg-logo="https://www.rtp.pt/portal/img/logo-rtpafrica.png" group-title="RTP;Internacional", RTP África
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtpmadeira" tvg-name="RTP Madeira" tvg-logo="https://www.rtp.pt/portal/img/logo-rtpmadeira.png" group-title="RTP;Regional", RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtpacores" tvg-name="RTP Açores" tvg-logo="https://www.rtp.pt/portal/img/logo-rtpacores.png" group-title="RTP;Regional", RTP Açores
+https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
+
+#---------------------------------------------
+# ARTV – Canal Parlamento
+#---------------------------------------------
+#EXTINF:-1 tvg-id="artv" tvg-name="ARTV" tvg-logo="https://www.parlamento.pt/portal/img/logo-pt.png" group-title="Política", ARTV
+http://streaming.parlamento.pt/artv/playlist.m3u8
+
+#---------------------------------------------
+# Porto Canal (oficial)
+#---------------------------------------------
+#EXTINF:-1 tvg-id="portocanal" tvg-name="Porto Canal" tvg-logo="https://www.portocanal.sapo.pt/img/logo.png" group-title="Regional", Porto Canal
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/31e9bf8a28a9441fbfa91eddf1f5e680/index.m3u8
+
+#---------------------------------------------
+# M3UPT – Lista pública agregada (com EPG)
+#---------------------------------------------
+#EXTINF:-1 tvg-id="m3upt" tvg-name="M3UPT - Full Portuguese Playlist" tvg-logo="https://m3upt.com/logo.png" group-title="Agregado", M3UPT - Full Portuguese public playlist
+https://m3upt.com/iptv
