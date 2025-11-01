@@ -7,7 +7,7 @@
 # RTP – Rádio e Televisão de Portugal
 #---------------------------------------------
 #EXTINF:-1 tvg-id="rtp1" tvg-name="RTP1" tvg-logo="https://www.rtp.pt/portal/img/logo-rtp1.png" group-title="RTP", RTP1
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/159.ts
 
 #EXTINF:-1 tvg-id="rtp2" tvg-name="RTP2" tvg-logo="https://www.rtp.pt/portal/img/logo-rtp2.png" group-title="RTP", RTP2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
@@ -44,3 +44,4 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/31e9bf8a28a9441fbfa91eddf1f5e680/in
 #---------------------------------------------
 #EXTINF:-1 tvg-id="m3upt" tvg-name="M3UPT - Full Portuguese Playlist" tvg-logo="https://m3upt.com/logo.png" group-title="Agregado", M3UPT - Full Portuguese public playlist
 https://m3upt.com/iptv
+
