@@ -7,8 +7,7 @@
 # RTP – Rádio e Televisão de Portugal
 #---------------------------------------------
 #EXTINF:-1 tvg-id="rtp1" tvg-name="RTP1" tvg-logo="https://www.rtp.pt/portal/img/logo-rtp1.png" group-title="RTP", RTP1
-http://premium-iptv.link:6969/live/ace/WFCQBW46kP/159.ts
-
+https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI1IDg6Njo0NCBQTSZoYXNoX3ZhbHVlPW5zMy9wbTVyTWhMb2liYnRZY24xYkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YjdhMzEwZi00N2ExLTQxYTYtYWRmMC1kZDhlNDkwYzIwNjM=
 #EXTINF:-1 tvg-id="rtp2" tvg-name="RTP2" tvg-logo="https://www.rtp.pt/portal/img/logo-rtp2.png" group-title="RTP", RTP2
 http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3951.ts
 
@@ -44,5 +43,6 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/31e9bf8a28a9441fbfa91eddf1f5e680/in
 #---------------------------------------------
 #EXTINF:-1 tvg-id="m3upt" tvg-name="M3UPT - Full Portuguese Playlist" tvg-logo="https://m3upt.com/logo.png" group-title="Agregado", M3UPT - Full Portuguese public playlist
 https://m3upt.com/iptv
+
 
 
