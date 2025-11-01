@@ -63,7 +63,7 @@ https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16" group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI1IDg6Njo0MiBQTSZoYXNoX3ZhbHVlPWFDcHNuNlBaWm5KK1FkQ0taK3p1d3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iM2NiYzNkOS02NDM2LTQ3NDItOWQyOS01ZDE3NTI2ZTVjYzg=/
+https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI1IDg6Njo0NCBQTSZoYXNoX3ZhbHVlPVdPZFJmUXo4NUdWVndqbm9Xb1B5aXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zZTM0MjgyOS1mM2YyLTQ2ODItYWZkYi1hM2EzYjg2NzcyZjg=
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Internacional.m3u
@@ -3198,5 +3198,6 @@ https://uk2.streamingpulse.com/ssl/vcr1
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png",Venice Classic Radio - Live
 https://uk2.streamingpulse.com/ssl/vcr2
+
 
 
